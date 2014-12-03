@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  ServiCite
+
+  Created by Mathieu White on 2014-11-03.
+  Copyright (c) 2014 Mathieu White. All rights reserved.
+*/
+
+/** Menu Items **/
+"Menu Item 1" = "Points of Interest";
+"Menu Item 2" = "Main Campus";
+"Menu Item 3" = "Satellite View";
+"Menu Item 3 alt" = "Standard View";
+"Menu Item 4" = "About";
+/** Menu Items **/
+
+/** Search Bar **/
+"Search" = "Search";
+/** Search Bar **/
+
+/** Search Table View **/
+"No Results" = "No Results";
+/** Search Table View **/
+
+/** Tracking Location Message **/
+"No Location" = "Cannot Determine Location";
+"Tracking Location Message" = "You must be on the main campus of La Cité Collégiale to enable location tracking.";
+"Alert Cancel Button" = "Close";
+/** Tracking Location Message **/
+
+/** Service Information View Controller **/
+"Close" = "Close";
+/** Service Information View Controller **/
+
+/** Service Detail View **/
+"Room" = "Room";
+"Not Available" = "Not Available";
+"Phone" = "Phone";
+"ext. %@" = "ext. %@";
+"Website" = "Website";
+/** Service Detail View **/

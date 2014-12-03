@@ -1,0 +1,12 @@
+/* 
+  InfoPlist
+  ServiCite
+
+  Created by Mathieu White on 2014-11-03.
+  Copyright (c) 2014 Mathieu White. All rights reserved.
+*/
+
+/** Localized versions of Info.plist keys **/
+"NSLocationUsageDescription" = "Your location will only be used to display yourself on the map.";
+"NSLocationWhenInUseUsageDescription" = "Your location will only be used to display yourself on the map.";
+/** Localized versions of Info.plist keys **/

@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  ServiCite
+
+  Created by Mathieu White on 2014-11-03.
+  Copyright (c) 2014 Mathieu White. All rights reserved.
+*/
+
+/** Items de Menu **/
+"Menu Item 1" = "Points d'Intéret";
+"Menu Item 2" = "Campus Principal";
+"Menu Item 3" = "Vue Satellite";
+"Menu Item 3 alt" = "Vue Standard";
+"Menu Item 4" = "À Propos";
+/** Items de Menu **/
+
+/** Barre de Recherche **/
+"Search" = "Rechercher";
+/** Barre de Recherche **/
+
+/** Vue de Tableau de Recherche **/
+"No Results" = "Aucun Résultat";
+/** Vue de Tableau de Recherche **/
+
+/** Message de Localization **/
+"No Location" = "Votre emplacement ne peut être déterminé";
+"Tracking Location Message" = "Vous devez être sur le campus principal de La Cité Collégiale pour permettre le suivi de l'emplacement.";
+"Alert Cancel Button" = "Fermer";
+/** Message de Localization **/
+
+/** Controleur d'Information de Service **/
+"Close" = "Fermer";
+/** Controleur d'Information de Service **/
+
+/** Vue Detail du Service **/
+"Room" = "Pièce";
+"Not Available" = "Non Disponible";
+"Phone" = "Téléphone";
+"ext. %@" = "poste %@";
+"Website" = "Site Web";
+/** Vue Detail du Service **/

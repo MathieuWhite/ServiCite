@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  ServiCite
+
+  Created by Mathieu White on 2014-11-03.
+  Copyright (c) 2014 Mathieu White. All rights reserved.
+*/
+
+/** Les versions localisées des clées Info.plist **/
+"NSLocationUsageDescription" = "Votre emplacement ne sera utilisée que pour vous afficher sur la carte.";
+"NSLocationWhenInUseUsageDescription" = "Votre emplacement ne sera utilisée que pour vous afficher sur la carte.";
+/** Les versions localisées des clées Info.plist **/

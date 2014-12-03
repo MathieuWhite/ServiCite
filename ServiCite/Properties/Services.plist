@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+	<!-- Aide financière -->
+	<dict>
+		<key>name</key>
+		<string>Aide financière</string>
+		<key>room</key>
+		<string>A1130</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2059</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#financiere</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4396636928</string>
+			<key>longitude</key>
+			<string>-75.6279873881</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4397733047</string>
+        		<key>longitude</key>
+        		<string>-75.6278639052</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396692065</string>
+        		<key>longitude</key>
+        		<string>-75.6278008162</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4395282154</string>
+        		<key>longitude</key>
+        		<string>-75.6279861591</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396477744</string>
+        		<key>longitude</key>
+        		<string>-75.6281741337</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396999627</string>
+        		<key>longitude</key>
+        		<string>-75.6281119263</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Aide financière -->
+
+	<!-- Ateliers -->
+	<dict>
+		<key>name</key>
+		<string>Ateliers</string>
+		<key>room</key>
+		<string>C1030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2940</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#ateliers</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404652851</string>
+			<key>longitude</key>
+			<string>-75.6270435663</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403991559</string>
+        		<key>longitude</key>
+        		<string>-75.6270661674</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403981996</string>
+        		<key>longitude</key>
+        		<string>-75.6269721312</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405314143</string>
+        		<key>longitude</key>
+        		<string>-75.6269196604</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405342830</string>
+        		<key>longitude</key>
+        		<string>-75.6270409535</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Ateliers -->
+
+	<!-- Besoins Spéciaux -->
+	<dict>
+		<key>name</key>
+		<string>Besoins Spéciaux</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#besoins-speciaux</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Besoins Spéciaux -->
+
+	<!-- BiblioCité -->
+	<dict>
+		<key>name</key>
+		<string>BiblioCité</string>
+		<key>room</key>
+		<string>A2030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2837</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite/bibliotheque.htm</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4397043255</string>
+			<key>longitude</key>
+			<string>-75.6280285765</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398033905</string>
+        		<key>longitude</key>
+        		<string>-75.6281714290</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398774029</string>
+        		<key>longitude</key>
+        		<string>-75.6279269945</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396692065</string>
+        		<key>longitude</key>
+        		<string>-75.6278008162</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4395282154</string>
+        		<key>longitude</key>
+        		<string>-75.6279861591</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396477744</string>
+        		<key>longitude</key>
+        		<string>-75.6281741337</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396999627</string>
+        		<key>longitude</key>
+        		<string>-75.6281119263</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- BiblioCité -->
+
+	<!-- Bureau des Admissions et du Registraire -->
+	<dict>
+		<key>name</key>
+		<string>Bureau des Admissions et du Registraire</string>
+		<key>room</key>
+		<string>A1130</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>none</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#bar</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4396636928</string>
+			<key>longitude</key>
+			<string>-75.6279873881</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4397733047</string>
+        		<key>longitude</key>
+        		<string>-75.6278639052</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396692065</string>
+        		<key>longitude</key>
+        		<string>-75.6278008162</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4395282154</string>
+        		<key>longitude</key>
+        		<string>-75.6279861591</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396477744</string>
+        		<key>longitude</key>
+        		<string>-75.6281741337</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396999627</string>
+        		<key>longitude</key>
+        		<string>-75.6281119263</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Bureau des Admissions et du Registraire -->
+
+	<!-- Centre d'Aide à la Réussite Scolaire -->
+	<dict>
+		<key>name</key>
+		<string>Centre d'Aide à la Réussite Scolaire</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>3400</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#scolaire</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Centre d'Aide à la Réussite Scolaire -->
+
+	<!-- Centre d'Aide en Anglais -->
+	<dict>
+		<key>name</key>
+		<string>Centre d'Aide en Anglais</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>3400</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#anglais</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Centre d'Aide en Anglais -->
+
+	<!-- Counselling Personnel -->
+	<dict>
+		<key>name</key>
+		<string>Counselling Personnel</string>
+		<key>room</key>
+		<string>C1030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#personnel</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404652851</string>
+			<key>longitude</key>
+			<string>-75.6270435663</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403991559</string>
+        		<key>longitude</key>
+        		<string>-75.6270661674</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403981996</string>
+        		<key>longitude</key>
+        		<string>-75.6269721312</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405314143</string>
+        		<key>longitude</key>
+        		<string>-75.6269196604</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405342830</string>
+        		<key>longitude</key>
+        		<string>-75.6270409535</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Counselling Personnel -->
+	
+	<!-- Emplois sur le Campus -->
+	<dict>
+		<key>name</key>
+		<string>Emplois sur le Campus</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>none</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/prets-bourses/pepa.htm</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Emplois sur le Campus -->
+
+	<!-- L'Entraide par les Pairs -->
+	<dict>
+		<key>name</key>
+		<string>L'Entraide par les Pairs</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>3200</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#entraide</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- L'Entraide par les Pairs -->
+
+	<!-- Information Scolaire et Professionnelle -->
+	<dict>
+		<key>name</key>
+		<string>Information Scolaire et Professionnelle</string>
+		<key>room</key>
+		<string>C1030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>none</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#info</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404652851</string>
+			<key>longitude</key>
+			<string>-75.6270435663</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403991559</string>
+        		<key>longitude</key>
+        		<string>-75.6270661674</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403981996</string>
+        		<key>longitude</key>
+        		<string>-75.6269721312</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405314143</string>
+        		<key>longitude</key>
+        		<string>-75.6269196604</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405342830</string>
+        		<key>longitude</key>
+        		<string>-75.6270409535</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Information Scolaire et Professionnelle -->
+
+	<!-- Jumelage Interculturel -->
+	<dict>
+		<key>name</key>
+		<string>Jumelage Interculturel</string>
+		<key>room</key>
+		<string>C1030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#jumelage</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404652851</string>
+			<key>longitude</key>
+			<string>-75.6270435663</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403991559</string>
+        		<key>longitude</key>
+        		<string>-75.6270661674</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403981996</string>
+        		<key>longitude</key>
+        		<string>-75.6269721312</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405314143</string>
+        		<key>longitude</key>
+        		<string>-75.6269196604</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405342830</string>
+        		<key>longitude</key>
+        		<string>-75.6270409535</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Jumelage Interculturel -->
+
+	<!-- Librairie COOPSCO -->
+	<dict>
+		<key>name</key>
+		<string>Librairie COOPSCO</string>
+		<key>room</key>
+		<string>F2010</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>none</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#librairie</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4399671549</string>
+			<key>longitude</key>
+			<string>-75.6262769219</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398507517</string>
+        		<key>longitude</key>
+        		<string>-75.6263027849</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4400057964</string>
+        		<key>longitude</key>
+        		<string>-75.6263885342</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4400518674</string>
+        		<key>longitude</key>
+        		<string>-75.6262326247</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4399583607</string>
+        		<key>longitude</key>
+        		<string>-75.6261836078</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Librairie COOPSCO -->
+
+	<!-- Planification d'Étude et de Carrière -->
+	<dict>
+		<key>name</key>
+		<string>Planification d'Étude et de Carrière</string>
+		<key>room</key>
+		<string>C1030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#planification</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404652851</string>
+			<key>longitude</key>
+			<string>-75.6270435663</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403991559</string>
+        		<key>longitude</key>
+        		<string>-75.6270661674</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403981996</string>
+        		<key>longitude</key>
+        		<string>-75.6269721312</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405314143</string>
+        		<key>longitude</key>
+        		<string>-75.6269196604</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405342830</string>
+        		<key>longitude</key>
+        		<string>-75.6270409535</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Planification d'Étude et de Carrière -->
+
+	<!-- Rabais Privilèges Étudiants -->
+	<dict>
+		<key>name</key>
+		<string>Rabais Privilèges Étudiants</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>none</string>
+		<key>extension</key>
+		<string>none</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite/rabais.htm</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Rabais Privilèges Étudiants -->
+
+	<!-- Reconnaissance des Acquis et Demande d'Équivalence -->
+	<dict>
+		<key>name</key>
+		<string>Reconnaissance des Acquis et Demande d'Équivalence</string>
+		<key>room</key>
+		<string>A1080</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2866</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#reconnaissance</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4397885153</string>
+			<key>longitude</key>
+			<string>-75.6280185638</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398033905</string>
+        		<key>longitude</key>
+        		<string>-75.6281714290</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398774029</string>
+        		<key>longitude</key>
+        		<string>-75.6279269945</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4397733047</string>
+        		<key>longitude</key>
+        		<string>-75.6278639052</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396999627</string>
+        		<key>longitude</key>
+        		<string>-75.6281119263</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Reconnaissance des Acquis et Demande d'Équivalence -->
+
+	<!-- Service de Counselling et d'Orientation -->
+	<dict>
+		<key>name</key>
+		<string>Service de Counselling et d'Orientation</string>
+		<key>room</key>
+		<string>C1030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#service-counselling</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404652851</string>
+			<key>longitude</key>
+			<string>-75.6270435663</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403991559</string>
+        		<key>longitude</key>
+        		<string>-75.6270661674</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403981996</string>
+        		<key>longitude</key>
+        		<string>-75.6269721312</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405314143</string>
+        		<key>longitude</key>
+        		<string>-75.6269196604</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405342830</string>
+        		<key>longitude</key>
+        		<string>-75.6270409535</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Service de Counselling et d'Orientation -->
+
+	<!-- Service de Placement en Emploi -->
+	<dict>
+		<key>name</key>
+		<string>Service de Placement en Emploi</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2085</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#placement</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Service de Placement en Emploi -->
+
+	<!-- Services Disponibles aux Futurs Étudiants -->
+	<dict>
+		<key>name</key>
+		<string>Services Disponibles aux Futurs Étudiants</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#carriere</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Services Disponibles aux Futurs Étudiants -->
+
+	<!-- Service d'Information à la Collectivité -->
+	<dict>
+		<key>name</key>
+		<string>Service d'Information à la Collectivité</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#carriere</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Service d'Information à la Collectivité -->
+
+	<!-- Service d'Orientation Professionnelle -->
+	<dict>
+		<key>name</key>
+		<string>Service d'Orientation Professionnelle</string>
+		<key>room</key>
+		<string>none</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2090</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#carriere</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.439953</string>
+			<key>longitude</key>
+			<string>-75.626851</string>
+		</dict>
+		<key>points</key>
+        <array>
+        </array>
+	</dict>
+	<!-- Service d'Orientation Professionnelle -->
+
+	<!-- TrempLinguistique -->
+	<dict>
+		<key>name</key>
+		<string>TrempLinguistique</string>
+		<key>room</key>
+		<string>C1040</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2233</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#TrempLinguistique</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4404525352</string>
+			<key>longitude</key>
+			<string>-75.6272111961</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403962871</string>
+        		<key>longitude</key>
+        		<string>-75.6271274954</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405323706</string>
+        		<key>longitude</key>
+        		<string>-75.6271349898</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405228082</string>
+        		<key>longitude</key>
+        		<string>-75.6272167605</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4405017709</string>
+        		<key>longitude</key>
+        		<string>-75.6273230623</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403752498</string>
+        		<key>longitude</key>
+        		<string>-75.6272665055</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4403867247</string>
+        		<key>longitude</key>
+        		<string>-75.6271983633</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- TrempLinguistique -->
+
+	<!-- Tutorat par les Pairs -->
+	<dict>
+		<key>name</key>
+		<string>Tutorat par les Pairs</string>
+		<key>room</key>
+		<string>A2030</string>
+		<key>phone</key>
+		<string>(613) 742-2483</string>
+		<key>extension</key>
+		<string>2940</string>
+		<key>url</key>
+		<string>http://www.collegelacite.ca/services/appui-reussite.htm#tutorat</string>
+		<key>center</key>
+		<dict>
+			<key>latitute</key>
+			<string>45.4397043255</string>
+			<key>longitude</key>
+			<string>-75.6280285765</string>
+		</dict>
+		<key>points</key>
+        <array>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398033905</string>
+        		<key>longitude</key>
+        		<string>-75.6281714290</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4398774029</string>
+        		<key>longitude</key>
+        		<string>-75.6279269945</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396692065</string>
+        		<key>longitude</key>
+        		<string>-75.6278008162</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4395282154</string>
+        		<key>longitude</key>
+        		<string>-75.6279861591</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396477744</string>
+        		<key>longitude</key>
+        		<string>-75.6281741337</string>
+        	</dict>
+        	<dict>
+        		<key>latitute</key>
+        		<string>45.4396999627</string>
+        		<key>longitude</key>
+        		<string>-75.6281119263</string>
+        	</dict>
+        </array>
+	</dict>
+	<!-- Tutorat par les Pairs -->
+
+</array>
+</plist>
